@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">UTS_F1D018094</string>
+    <string name="btn2">Plot</string>
+    <string name="btn3">Synopsis</string>
+    <string name="btn4">Characters</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="detail">Detail</string>
+    <string name="readSynopsis">Read Synopsis</string>
+    <string name="readPlot">Read Plot</string>
+    <string name="plot">"The series follows the life of Meredith Grey (Ellen Pompeo), the daughter of the famous general surgeon Ellis Grey (Kate Burton), starting from her acceptance into the surgical residency program at the fictional Seattle Grace Hospital, (later named Seattle Grace Mercy West and finally, Grey Sloan Memorial Hospital). During her time as an intern, Grey works alongside fellow physicians Cristina Yang (Sandra Oh), Izzie Stevens (Katherine Heigl), Alex Karev (Justin Chambers) and George O'Malley (T. R. Knight), who each struggle to balance their personal lives with hectic schedules and stressful residency requirements. During their internship, they are overseen by Miranda Bailey (Chandra Wilson), a senior resident, who works with attending physicians Derek Shepherd (Patrick Dempsey), head of neurosurgery and Meredith's love-interest, and Preston Burke (Isaiah Washington), head of cardiothoracic surgery, who becomes Yang's fiancé. Richard Webber (James Pickens Jr.), Chief of Surgery and attending general surgeon, is the former lover of Ellis Grey. During the first 6 seasons, Burke, George, and Stevens all depart the series."</string>
+    <string name="explain">"Grey's Anatomy is a long-running medical drama series created by Shonda Rhimes, now airing its seventeenth season on ABC. Showrunner Krista Vernoff produce the series with Shonda Rhimes and Betsy Beers. The series follows Meredith Grey and the team of doctors at Grey Sloan Memorial who are faced with life-or-death decisions on a daily basis. They seek comfort from one another, and, at times, more than just friendship. Together, they discover that neither medicine nor relationships can be defined in black and white."</string>
+    <string name="sinopsis">"Grey's Anatomy follows the lives of surgical interns, residents, and attendings at the fictional Grey-Sloan Memorial Hospital (formerly Seattle Grace Hospital, Season 1–6, Seattle Grace Mercy West Hospital, Season 6–9, and then Grey-Sloan Memorial Hospital, Season 9–present), as the interns gradually develop into seasoned doctors through the mentoring of their residents, attendings, and chiefs of surgery. Each installment typically begins with a voice-over narrative from Meredith Grey or a season regular, foreshadowing the theme of the episode. Each season tends to represent the physicians' academic year, with each completed year qualifying the residents at a level higher in the surgical field. The season typically ends with a dramatic event such as a death or character departure. Most installments revolve around the doctors' everyday lives as surgeons, but the show also emphasizes their personal, as well as their professional, lives. The series often sets aside medical ethics concerns in order to foreground character development and relationships. While the physicians treat the illnesses of their patients, often through complex surgeries, they also display competitive spirit and seek praise."</string>
+
+    <string-array name="data_name">
+        <item>Addison Montgomery</item>
+        <item>Alex Karev</item>
+        <item>Amelia Shepherd</item>
+        <item>Andrew DeLuca</item>
+        <item>Cristina Yang</item>
+        <item>Derek Shepherd</item>
+        <item>Erica Hanh</item>
+        <item>"George O'Malley"</item>
+        <item>Izzie Stevens</item>
+        <item>Jackson Avery</item>
+        <item>Jo Wilson</item>
+        <item>Lexie Grey</item>
+        <item>Maggie Pierce</item>
+        <item>Mark Sloan</item>
+        <item>Meredith Grey</item>
+        <item>Miranda Bailey</item>
+        <item>Owen Hunt</item>
+        <item>Preston Burke</item>
+        <item>Richard Webber</item>
+        <item>Teddy Altman</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Addison Forbes Montgomery (formerly Montgomery-Shepherd) is a double board-certified OB/GYN, subspecializing in maternal-fetal medicine/fetal surgery, a neonatal surgeon (one of the foremost in the country) and a medical geneticist at the Seaside Health and Wellness. She is married to Jake Reilly and mother to Henry Montgomery.</item>
+        <item>Alex Karev is the former Chief of Surgery at Pacific Northwest General Hospital and former Head of Pediatric Surgery at Grey Sloan Memorial Hospital. He is the father of twins, Alexis and Eli, with his ex-wife and current partner, Izzie Stevens. He was also married to Jo Wilson before learning about Eli and Alexis.</item>
+        <item>"Amelia Shepherd is the Head of Neurosurgery at Grey Sloan Memorial Hospital. She is the youngest sister of Derek Shepherd and was officially employed at Seaside Health and Wellness with privileges at St. Ambrose Hospital. She later relocated to Seattle and took over Derek's job as the Head of Neurosurgery at Grey Sloan. While in Los Angeles, she was engaged to Ryan Kerrigan until his death and later to James Peterson until she moved to Seattle. After moving to Seattle, she had a short-lived marriage to Owen Hunt. She is now in a relationship with Atticus Lincoln with whom she has a son, Scout."</item>
+        <item>Andrew DeLuca was a general surgery attending at Grey Sloan Memorial Hospital until his death. He developed a romantic relationship with Meredith Grey. He was the younger brother of Carina DeLuca.</item>
+        <item>"Cristina Yang is a researcher, Chief Medical Officer, and Director of Cardiothoracic Surgery at the Klausman Institute for Medical Research, having been trained at Seattle Grace Hospital, Seattle Grace Mercy West Hospital, and Grey Sloan Memorial Hospital. She was engaged to Preston Burke and had a tumultuous relationship and marriage with Owen Hunt. She is also Meredith Grey's person."</item>
+        <item>Derek Shepherd was a renowned neurosurgeon, former Head of Neurosurgery, and board director at Grey Sloan Memorial Hospital. He was married to Meredith Grey and they have two daughters, Zola and Ellis, and a son, Bailey. He died from his injuries after being hit by a truck.</item>
+        <item>Erica Hahn is a cardiothoracic surgeon who briefly worked at Seattle Grace Hospital and dated another employee, Callie Torres. She previously worked at Seattle Presbyterian Hospital and attended Johns Hopkins Medical School where she started a fierce rivalry with Preston Burke.</item>
+        <item>"George O'Malley was a surgical resident at Seattle Grace Hospital. As an intern, George got off to a rough start but quickly became a very skilled and talented surgeon. He was best friends with Izzie Stevens. He was married to Callie Torres but divorced after he cheated on her. He was kind-hearted, compassionate, and loyal. He died after jumping in front of a bus to save a woman's life."</item>
+        <item>Izzie Stevens is an attending surgical oncologist. She was a surgical resident at Seattle Grace Hospital until she was fired shortly after the merger with Mercy West Medical Center. Engaged to Denny Duquette until his death, she is now in a relationship with her ex-husband, Alex Karev. Together, they have twins, Alexis and Eli.</item>
+        <item>Jackson Avery is the Head of Plastic Surgery and attending ENT at Grey Sloan Memorial Hospital and was one of the staff members who joined from Mercy West Medical Center after the merger. He is also a member of the board and the de facto board chairman. Jackson was married to April Kepner with whom he has a daughter and a deceased son.</item>
+        <item>Jo Wilson, formerly Brooke Stadler and Jo Karev, is an attending general surgeon at Grey Sloan Memorial Hospital. She was married to Alex Karev until he left her for his ex-wife, Izzie.</item>
+        <item>Lexie Grey was the daughter of Susan and Thatcher Grey and half-sister of Meredith Grey. She was a surgical resident at Seattle Grace Mercy West Hospital until she died in the plane crash. After her death, the hospital was renamed after her and Mark Sloan, the two fatal casualties from the plane crash.</item>
+        <item>Maggie Pierce is the current Co-Head of Cardiothoracic Surgery at Grey Sloan Memorial Hospital alongside Teddy Altman. Shortly after starting work, she found out that her biological half-sister is Meredith Grey after she revealed to Richard Webber that Ellis Grey is her birth mother.</item>
+        <item>Mark Sloan was the Head of Plastic Surgery at Seattle Grace Mercy West Hospital. He is the father of Sloan Riley and Sofia Robbin Sloan Torres. After his death, the hospital was renamed after him and Lexie Grey, the two fatal casualties after the plane crash.</item>
+        <item>Meredith Grey is the head of general surgery at Grey Sloan Memorial Hospital. She is the daughter of the now-deceased Ellis Grey, a famed general surgeon, and the now-deceased Thatcher Grey. She was married to Derek Shepherd until his death; they have two daughters, Zola and Ellis, and a son, Bailey. She has won a Catherine Fox Award.</item>
+        <item>Miranda Bailey is a general surgeon and the current Chief of Surgery at Grey Sloan Memorial Hospital. She is married to Ben Warren and has one son, Tuck, with her ex-husband, Tucker Jones. During her internship at Seattle Grace Hospital, she was very quiet and had no confidence, until she was mentored by Richard Webber. While in her residency, she was known as The Nazi to her interns, due to her tough and no-nonsense personality. However, she later dropped the nickname after operating on a real Nazi.</item>
+        <item>Owen Hunt is the Head of Trauma and former Chief of Surgery at Grey Sloan Memorial Hospital. He previously served in the Army but was honorably discharged due to the death of his entire platoon. He was first married to Cristina Yang and later to Amelia Shepherd, but both marriages ended in divorce. He is currently raising his son Leo Hunt with help from Amelia as well as his daughter Allison Hunt with Teddy Altman.</item>
+        <item>Preston Burke is a cardiothoracic surgeon. He was formerly head of cardiothoracic surgery at Seattle Grace Hospital, but quit after leaving his fiancée, Cristina Yang, during their wedding. After winning a Harper Avery, he founded the Klausman Institute for Medical Research, and ran it until he gave it to Cristina.</item>
+        <item>Richard Webber is an attending general surgeon and Residency Program Director at Grey Sloan Memorial Hospital and the current Chief Medical Officer of the Catherine Fox Foundation. He is also the former Chief of Surgery at both Seattle Grace Hospital and Seattle Grace Mercy West Hospital. During his residency, he had an affair with Ellis Grey, but he left her because he was jealous of her career. He was married to Adele Webber until her death and is now married to Catherine Fox.</item>
+        <item>Teddy Altman is the Co-Head of Cardiothoracic Surgery at Grey Sloan Memorial Hospital. She was engaged to Owen Hunt, whom she met in the military. They are raising their daughter Allison Hunt and his son Leo Hunt together. She is the widow of Henry Burton and a mentor to Cristina Yang at Seattle Grace Mercy West Hospital.</item>
+    </string-array>
+
+    <string-array name="data_played">
+        <item>played by Kate Walsh</item>
+        <item>played by Justin Chambers</item>
+        <item>played by Caterina Scorsone</item>
+        <item>played by Giacomo Gianniotti</item>
+        <item>played by Sandra Oh</item>
+        <item>played by Patrick Dempsey</item>
+        <item>played by Brooke Smith</item>
+        <item>played by T. R. Knight</item>
+        <item>played by Katherine Heigl</item>
+        <item>played by Jesse Williams</item>
+        <item>played by Camilla Luddington</item>
+        <item>played by Chyler Leigh</item>
+        <item>played by Kelly McCreary</item>
+        <item>played by Eric Dane</item>
+        <item>played by Ellen Pompeo</item>
+        <item>played by Chandra Wilson</item>
+        <item>played by Kevin McKidd</item>
+        <item>played by Isaiah Washington</item>
+        <item>played by James Pickens Jr.</item>
+        <item>played by Kim Raver</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/addison</item>
+        <item>@drawable/alex</item>
+        <item>@drawable/amelia_shep</item>
+        <item>@drawable/andrea</item>
+        <item>@drawable/yang</item>
+        <item>@drawable/derek</item>
+        <item>@drawable/erica</item>
+        <item>@drawable/george</item>
+        <item>@drawable/izzie</item>
+        <item>@drawable/avery</item>
+        <item>@drawable/jo</item>
+        <item>@drawable/lexie</item>
+        <item>@drawable/mar_pierce</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/mer</item>
+        <item>@drawable/bailey</item>
+        <item>@drawable/owen</item>
+        <item>@drawable/burke</item>
+        <item>@drawable/richard</item>
+        <item>@drawable/teddy</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
